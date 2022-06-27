@@ -15,3 +15,15 @@ User can stay organized during their job search and track their job applications
 
 ### Stretch Goals
 * Edit Status
+
+
+
+Company
+-----
+* Name
+
+Jobs
+----
+* Position
+* Short description of position
+* Status/Notes
